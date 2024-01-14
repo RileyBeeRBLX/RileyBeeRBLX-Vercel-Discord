@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RileyBeeRBLX Credit To:Noah</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        Riley Executor Modem Bot Website
+    </header>
+    <main>
+        <h2>Welcome to our Website</h2>
+        <p class="animated-text">Iam Riley And Welcome To My Discord Bot Website</p>
+        <p>Hello I Am Riley And Welcome To My Discord Bot Website You Can Invite The Bot By Clicking The Buttons Down Below</p>
+        <p>Credit To Noah For The Css</p>
+        <p>Make Sure To Invite My Bot And Invite The ExeBot</p>
+                <a href="https://discord.com/api/oauth2/authorize?client_id=1195630548958334996&permissions=8&scope=bot" class="invite-button">
+            Invite Riley Executor Modem Bot!
+        </a>
+                    <a href="https://bit.ly/Exebot2" class="invite-button">
+            Invite Exebot!
+        </a>
+    </main>
+</body>
+</html>
